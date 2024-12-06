@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Building Menu Anywhere",
+  "Author": "OMEGAlinc",
+  "Version": "1.0.0",
+  "Description": "Allows the player to open the Carpenter's building menu from anywhere with a configurable key.",
+  "UniqueID": "OMEGAlinc.BuildingMenuAnywhere",
+  "EntryDll": "BuildingMenuAnywhere.dll",
+  "UpdateKeys": [ "Nexus:29906" ]
+}
