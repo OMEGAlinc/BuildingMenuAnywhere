@@ -1,4 +1,4 @@
-The mod Building Menu Anywhere for Stardew Valley. Nexus link: https://www.nexusmods.com/stardewvalley/mods/29329
+The mod Building Menu Anywhere for Stardew Valley. Nexus link: https://www.nexusmods.com/stardewvalley/mods/29906
 
 What it does:
 
